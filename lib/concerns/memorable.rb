@@ -1,6 +1,11 @@
 module Memorable
   
   def self.reset_all
-  #   @@songs.clear
-  # end
+     @@songs.clear
+  end
+  
+  
+  
+  
+  
 end
