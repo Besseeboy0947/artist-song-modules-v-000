@@ -10,5 +10,8 @@ module Memorable
   end
   
   
+  extend MetaDancing
+  extend FancyDance::ClassMethods
+ 
   
 end
