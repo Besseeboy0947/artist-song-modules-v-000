@@ -10,6 +10,5 @@ module Memorable
   end
   
   
-  extend 
   
 end
